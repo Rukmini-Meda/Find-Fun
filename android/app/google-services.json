@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690977434383",
+    "firebase_url": "https://registerapp-27e13.firebaseio.com",
+    "project_id": "registerapp-27e13",
+    "storage_bucket": "registerapp-27e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690977434383:android:b4693cb99617c437e8ec7a",
+        "android_client_info": {
+          "package_name": "com.rukminimeda.instawork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690977434383-m8550piqecmrjeq3lko2gsrtc4fl3lor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4vq_5yatzQukBI5HYO36OYOISxmUfMsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690977434383-m8550piqecmrjeq3lko2gsrtc4fl3lor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
