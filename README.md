@@ -1,5 +1,3 @@
-# instawork
-This is an internship task for a company called instawork.
 A new Flutter project.
 
 ## Getting Started
